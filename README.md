@@ -3,8 +3,7 @@
 ## About the Assignment
 In this project, an autonomous robot is built to perform some tasks that replicates a simple service robot that travels from one part of an area to another. The reqired tasks include the robot moving to a red beacon, turning it off, then finding a green beacon, turing that off, and bringing the green beacon out of the arena the beacons were enclosed in. The robot not only turns on and off the beacons but also navigate itself around the arena as it searches or removes whatever is needed. All group memebers participated in all aspects of the project, though each were concentrated in an aspect based on their pursuing major. More information on the robot project can be found on the lab report. 
 * Mechanics: The robot was built with metal parts and robotic pieces from Vex Robotics kits that have been recycled. Other items that belong to group members, such as fishing lines were also used.  Aochi and Wakayama were in charge of designing and building the robot. 
-* Electrical: The robot's cuircuts were soldered by hand. Hung and Cater focused on ensuring that the robot's curcuits are connected
-* Programming: The robot is program in Easy C, a modified version of C language. Nguyen and Cater were in charge of programming the basic tasks the robot has to do. 
-For formating, [click here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links).
+* Electrical: The robot's cuircuts were soldered by hand. Hung and Cater focused on ensuring that the robot's curcuits are connected. 
+* Programming: The robot is program in Easy C, a modified version of C language. Nguyen and Cater were in charge of programming the basic tasks the robot has to do. The premade code that allows the robot to read beacon signals was given, and only the code for naviation and arm movement was coded by hand. 
 ## The Takeaway
-The takeaway is a conclusion as well as final further explanation as to why this assignment is done.  (Will be completed)
+This project is one of the many projects done in the class to show the different fields of Engineering and how it can affect the conception, development, and completion of a project. 
