@@ -5,5 +5,3 @@ In this project, an autonomous robot is built to perform some tasks that replica
 * Mechanics: The robot was built with metal parts and robotic pieces from Vex Robotics kits that have been recycled. Other items that belong to group members, such as fishing lines were also used.  Aochi and Wakayama were in charge of designing and building the robot. 
 * Electrical: The robot's cuircuts were soldered by hand. Hung and Cater focused on ensuring that the robot's curcuits are connected. 
 * Programming: The robot is program in Easy C, a modified version of C language. Nguyen and Cater were in charge of programming the basic tasks the robot has to do. The premade code that allows the robot to read beacon signals was given, and only the code for naviation and arm movement was coded by hand. 
-## The Takeaway
-This project is one of the many projects done in the class to show the different fields of Engineering and how it can affect the conception, development, and completion of a project. 
